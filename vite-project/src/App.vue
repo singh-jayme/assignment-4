@@ -1,5 +1,5 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import Movie from './components/Movie.vue'
 </script>
 
 <template>
